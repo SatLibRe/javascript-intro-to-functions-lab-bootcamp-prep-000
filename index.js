@@ -14,6 +14,8 @@ function logWhisper(string) {
   console.log(string.toLowerCase())
 }
 
-function sayHiToGrandma(string) { 
-
+let miles = string.toLowerCase() 
+if {
+  
 }
+
